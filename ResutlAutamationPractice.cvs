@@ -1,0 +1,35 @@
+1654814667504,2071,Home AutomationPractice/index.php-69,200,OK,AutomationPractice 1-1,text,true,,82302,386,1,1,http://automationpractice.com/index.php,1725,0,214
+1654814669592,3708,Home Sign In/index.php-77,200,OK,AutomationPractice 1-1,text,true,,36107,936,1,1,http://automationpractice.com/index.php?controller=authentication&back=my-account,1017,0,0
+1654814669592,1017,Home Sign In/index.php-77-0,302,Moved Temporarily,AutomationPractice 1-1,text,true,,583,458,1,1,http://automationpractice.com/index.php?controller=my-account,1017,0,0
+1654814670611,2689,Home Sign In/index.php-77-1,200,OK,AutomationPractice 1-1,text,true,,35524,478,1,1,http://automationpractice.com/index.php?controller=authentication&back=my-account,2557,0,0
+1654814677342,6536,Already registered/index.php?controller=authentication-89,200,OK,AutomationPractice 1-1,text,true,,37634,1896,1,1,http://automationpractice.com/index.php?controller=authentication&back=my-account,1161,0,75
+1654814677342,1161,Already registered/index.php?controller=authentication-89-0,302,Moved Temporarily,AutomationPractice 1-1,text,true,,1541,700,1,1,http://automationpractice.com/index.php?controller=authentication,1161,0,75
+1654814678503,2714,Already registered/index.php?controller=authentication-89-1,302,Moved Temporarily,AutomationPractice 1-1,text,true,,579,588,1,1,http://automationpractice.com/index.php?controller=my-account,2714,0,0
+1654814681217,2661,Already registered/index.php?controller=authentication-89-2,200,OK,AutomationPractice 1-1,text,true,,35514,608,1,1,http://automationpractice.com/index.php?controller=authentication&back=my-account,2520,0,0
+1654814683880,5281,Already registered/index.php?rand=1654715759491-92,200,OK,AutomationPractice 1-1,text,true,,82863,1185,1,1,http://automationpractice.com/index.php,2319,0,0
+1654814683880,2319,Already registered/index.php?rand=1654715759491-92-0,302,Moved Temporarily,AutomationPractice 1-1,text,true,,590,634,1,1,http://automationpractice.com/index.php?rand=1654715759491,2319,0,0
+1654814686200,2961,Already registered/index.php?rand=1654715759491-92-1,200,OK,AutomationPractice 1-1,text,true,,82273,551,1,1,http://automationpractice.com/index.php,2119,0,0
+1654814689165,3247,My Addresses/index.php-96,200,OK,AutomationPractice 1-1,text,true,,36088,978,1,1,http://automationpractice.com/index.php?controller=authentication&back=addresses,1170,0,0
+1654814689165,1170,My Addresses/index.php-96-0,302,Moved Temporarily,AutomationPractice 1-1,text,true,,576,479,1,1,http://automationpractice.com/index.php?controller=addresses,1170,0,0
+1654814690335,2077,My Addresses/index.php-96-1,200,OK,AutomationPractice 1-1,text,true,,35512,499,1,1,http://automationpractice.com/index.php?controller=authentication&back=addresses,1863,0,0
+1654814692413,7335,Add New Addresses/index.php-101,200,OK,AutomationPractice 1-1,text,true,,36098,974,1,1,http://automationpractice.com/index.php?controller=authentication&back=addresses,1201,0,0
+1654814692413,1201,Add New Addresses/index.php-101-0,302,Moved Temporarily,AutomationPractice 1-1,text,true,,576,476,1,1,http://automationpractice.com/index.php?controller=address,1201,0,0
+1654814693614,6134,Add New Addresses/index.php-101-1,200,OK,AutomationPractice 1-1,text,true,,35522,498,1,1,http://automationpractice.com/index.php?controller=authentication&back=addresses,1382,0,0
+1654814699749,3,Your Addresses/index.php?controller=address-104,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: automationpractice.com:80 failed to respond,AutomationPractice 1-1,text,false,,2091,0,1,1,http://automationpractice.com/index.php?controller=address,0,0,0
+1654814699754,4834,Women/index.php-109,200,OK,AutomationPractice 1-1,text,true,,99322,491,1,1,http://automationpractice.com/index.php?id_category=3&controller=category,2741,0,94
+1654814704592,935,Add to Cart/index.php?rand=1654716215831-146,200,OK,AutomationPractice 1-1,text,true,,765,692,1,1,http://automationpractice.com/index.php?rand=1654716215831,845,0,0
+1654814705528,1978,Proceed To Checkout/index.php-151,200,OK,AutomationPractice 1-1,text,true,,26797,487,1,1,http://automationpractice.com/index.php?controller=order,1260,0,0
+1654814707508,1802,Proceed To Checkout/index.php?rand=1654716338485-156,200,OK,AutomationPractice 1-1,text,true,,747,650,1,1,http://automationpractice.com/index.php?rand=1654716338485,1607,0,0
+1654814709311,4268,Proceed To Checkout 1/index.php-157,200,OK,AutomationPractice 1-1,text,true,,26704,477,1,1,http://automationpractice.com/index.php?controller=order&step=1,3821,0,0
+1654814713581,4048, Choose a delivery address/index.php-165,200,OK,AutomationPractice 1-1,text,true,,26704,477,1,1,http://automationpractice.com/index.php?controller=order&step=1,3811,0,0
+1654814717631,1855,Proceed to Checkout/index.php-171,200,OK,AutomationPractice 1-1,text,true,,26714,477,1,1,http://automationpractice.com/index.php?controller=order&step=1,1695,0,0
+1654814719487,1877,Proceed to Checkout/index.php?controller=order-172,200,OK,AutomationPractice 1-1,text,true,,26801,683,1,1,http://automationpractice.com/index.php?controller=order,1718,0,0
+1654814721365,2017,Proceed to Checkout/index.php?controller=order-178,200,OK,AutomationPractice 1-1,text,true,,26795,683,1,1,http://automationpractice.com/index.php?controller=order,1858,0,0
+1654814723384,2072,Proceed to Checkout/index.php-183,200,OK,AutomationPractice 1-1,text,true,,26797,403,1,1,http://automationpractice.com/index.php?controller=order,1642,0,0
+1654814725457,3261,Proceed to Checkout/index.php-184,200,OK,AutomationPractice 1-1,text,true,,26716,477,1,1,http://automationpractice.com/index.php?controller=order&step=1,2950,0,0
+1654814728718,2695,Proceed to Checkout/index.php?controller=order-186,200,OK,AutomationPractice 1-1,text,true,,26799,683,1,1,http://automationpractice.com/index.php?controller=order,2521,0,0
+1654814731418,2390,Proceed to Checkout/index.php?controller=order&multi-shipping=-192,200,OK,AutomationPractice 1-1,text,true,,26611,662,1,1,http://automationpractice.com/index.php?controller=order&multi-shipping=,2309,0,0
+1654814733809,1106,Pay By Bank Wire/index.php-196,200,OK,AutomationPractice 1-1,text,true,,26832,514,1,1,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=payment,1013,0,0
+1654814734916,4386,I confirm my order/index.php?fc=module&module=bankwire&controller=validation-200,200,OK,AutomationPractice 1-1,text,true,,27297,1250,1,1,http://automationpractice.com/index.php?controller=order&step=1,1310,0,0
+1654814734916,1310,I confirm my order/index.php?fc=module&module=bankwire&controller=validation-200-0,302,Moved Temporarily,AutomationPractice 1-1,text,true,,579,657,1,1,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=validation,1310,0,0
+1654814736226,3076,I confirm my order/index.php?fc=module&module=bankwire&controller=validation-200-1,200,OK,AutomationPractice 1-1,text,true,,26718,593,1,1,http://automationpractice.com/index.php?controller=order&step=1,2917,0,0
