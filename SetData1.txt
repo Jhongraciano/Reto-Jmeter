@@ -1,0 +1,26 @@
+Camilo,Cll45c Cr34-8j,Cartagena,9835,09573,Visa,17629030,10,20217,Banca
+Camila,Cll45 Cr34-8i,Cartagena,9835,09573,Visa,17629030,10,20217,Banca
+Camilo,Cll45c Cr34-8j,Cartagena,9835,09573,Visa,17629030,10,20217,Banca
+Camilo,Cll45c Cr34-8j,Cartagena,9835,09573,Visa,1762349030,10,2021,Banca
+Carlo,Cll45c Cr34-8j,CAli,9835,095373,American Express,1764329030,9,2023,Banca
+Maria,Cll45c Cr34-8j,Peru,9835,0953473,Visa,1762934030,10,2021,Banca
+Mary,Cll45c Cr34-8j,Bogota,9835,0934573,Diner's Club,17629we030,3,2017,Banca
+Sara,Cll45c Cr34-8j,Medellin,983435,09573,American Express,176we29030,5,2007,Banca
+Cristina,Cll45c Cr34-8j,Panama,98435,09573,Visa,17629e243030,1,2007,Banca
+Laura,Cll45c Cr34-8j,Canada,98335,0954573,Diner's Club,1763229030,2,2009,Banca
+Malissa,Cll45c Cr34-8j,pereira,985635,09573,American Express,1763229030,11,2008,Banca
+John,Cll45c Cr34-8j,Cordoba,98345,09573,Visa,17625239030,7,2004,Banca
+Juan,Cll45c Cr34-8j,Cartagena,985635,09573,Diner's Club,17325629030,8,2090,Banca
+Camilo,Cll45c Cr34-8j,Cartagena,9835,09573,Visa,17629030,10,20217,Banca
+Camila,Cll45 Cr34-8i,Cartagena,9835,09573,Visa,17629030,10,20217,Banca
+Camilo,Cll45c Cr34-8j,Cartagena,9835,09573,Visa,17629030,10,20217,Banca
+Camilo,Cll45c Cr34-8j,Cartagena,9835,09573,Visa,1762349030,10,2021,Banca
+Carlo,Cll45c Cr34-8j,CAli,9835,095373,American Express,1764329030,9,2023,Banca
+Maria,Cll45c Cr34-8j,Peru,9835,0953473,Visa,1762934030,10,2021,Banca
+Mary,Cll45c Cr34-8j,Bogota,9835,0934573,Diner's Club,17629we030,3,2017,Banca
+Sara,Cll45c Cr34-8j,Medellin,983435,09573,American Express,176we29030,5,2007,Banca
+Cristina,Cll45c Cr34-8j,Panama,98435,09573,Visa,17629e243030,1,2007,Banca
+Laura,Cll45c Cr34-8j,Canada,98335,0954573,Diner's Club,1763229030,2,2009,Banca
+Malissa,Cll45c Cr34-8j,pereira,985635,09573,American Express,1763229030,11,2008,Banca
+John,Cll45c Cr34-8j,Cordoba,98345,09573,Visa,17625239030,7,2004,Banca
+Juan,Cll45c Cr34-8j,Cartagena,985635,09573,Diner's Club,17325629030,8,2090,Banca
